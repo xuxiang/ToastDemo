@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">ToastDemo</string>
+    <string name="short_message">short_message</string>
+    <string name="long_message">long_message</string>
+    <string name="action">action</string>
+
+</resources>
